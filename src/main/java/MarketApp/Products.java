@@ -3,7 +3,7 @@ package Sorular.MarketApp;
 import java.util.ArrayList;
 import java.util.List;
 /*
-Deneme
+sildim
  */
 /* Basarili Market alış-veriş programı.
          *
