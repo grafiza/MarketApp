@@ -2,6 +2,9 @@ package Sorular.MarketApp;
 
 import java.util.ArrayList;
 import java.util.List;
+/*
+Deneme
+ */
 /* Basarili Market alış-veriş programı.
          *
          * 1. Adım: Ürünler ve fiyatları içeren listeleri oluşturunuz.
